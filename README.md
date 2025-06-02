@@ -1,5 +1,7 @@
 # Text-Analytics
 **Sentiment Analysis**
+
+
 The goal of this report is to apply the principles covered in the Text Analytics module to a real
 world problem: mainly sentiment analysis of Amazon Fine Food Reviews. Through this 
 assignment, I hope to gain hands-on experience preprocessing text data, applying various text 
